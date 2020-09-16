@@ -1,0 +1,66 @@
+[33mcommit 50a8d4cdf6e4a3ad1bb4b896ea8d4a3800f0e58c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Alexey Gulyaev <algulaev@mail.ru>
+Date:   Wed Sep 16 13:36:18 2020 +0300
+
+    Write data to object
+
+[33mcommit a5eae7c65722ec291b34bc7d8f1fd74c01b116fb[m
+Author: Alexey Gulyaev <algulaev@mail.ru>
+Date:   Wed Sep 16 13:07:32 2020 +0300
+
+    delete test.txt
+
+[33mcommit 389ae49ddd33e467de2d944032ae3f34e9ce1de7[m
+Author: Alexey Gulyaev <algulaev@mail.ru>
+Date:   Wed Sep 16 13:04:14 2020 +0300
+
+    Will be delited
+
+[33mcommit 8bcfcf0c4149bf7587d2603fc941d7a654d6e952[m
+Author: Alexey Gulyaev <algulaev@mail.ru>
+Date:   Wed Sep 16 13:00:13 2020 +0300
+
+    add .gitignore
+
+[33mcommit ad756d1d4718a95886856e0032e357d5597eeb7e[m
+Merge: 6287852 486277a
+Author: Alexey Gulyaev <algulaev@mail.ru>
+Date:   Wed Sep 16 12:39:26 2020 +0300
+
+    Merge branch 'master' of https://github.com/foxigen15/project-test into master
+
+[33mcommit 62878520a66fa844340fc41da3e08bdc4dff74fc[m
+Author: Alexey Gulyaev <algulaev@mail.ru>
+Date:   Wed Sep 16 12:38:37 2020 +0300
+
+    add h3
+
+[33mcommit 486277abbfe230dfaba7d07e29d367db1f8f4bc4[m
+Author: Alexey Gulyaev <63115178+foxigen15@users.noreply.github.com>
+Date:   Wed Sep 16 12:35:57 2020 +0300
+
+    Create README.md
+
+[33mcommit 2af6fce15abca0f0c0bb4c0d14ac840976f535a7[m
+Author: Alexey Gulyaev <algulaev@mail.ru>
+Date:   Wed Sep 16 12:31:51 2020 +0300
+
+    index.html mod
+
+[33mcommit b5b14e0fff0668d838d6d4561598ca2d68f195d0[m
+Author: Alexey Gulyaev <algulaev@mail.ru>
+Date:   Tue Sep 15 17:57:23 2020 +0300
+
+    third commit
+
+[33mcommit c2fd903e5752e2a247018e4c44f85c4991b6974e[m
+Author: Alexey Gulyaev <algulaev@mail.ru>
+Date:   Tue Sep 15 17:36:29 2020 +0300
+
+    second commit
+
+[33mcommit 71505b0ed8c54d6ae45c717baa879bc2da780456[m
+Author: Alexey Gulyaev <algulaev@mail.ru>
+Date:   Tue Sep 15 12:54:10 2020 +0300
+
+    first commit
