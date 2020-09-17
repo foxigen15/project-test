@@ -40,13 +40,13 @@ function showFirstMessage(text) {
 showFirstMessage("Hellow world!");
 console.log(num);
 
-function calc(a, b) {
-    return a+b;
-    console.log("sfdasdf");
-}
+// function calc(a, b) {
+//     return a+b;
+//     console.log("sfdasdf"); // не выводится т.к. идет после return
+// }
 
-console.log(calc(4, 3));
-console.log(calc(5, 6));
+// console.log(calc(4, 3));
+// console.log(calc(5, 6));
 
 function ret() {
     let num = 50;
@@ -61,7 +61,7 @@ const logger = function() {
 };
 logger();
 
-const calc = (a, b) => a+b;
+// const calc = (a, b) => a+b;
 const calc = (a, b) => {
-    return a+b
+    return a+b;
 };
